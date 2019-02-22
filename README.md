@@ -28,3 +28,11 @@ Wait for 30s to see if it works or not.
 
 - **phpmyadmin** is at port **8080**, account to login: `root` - `123456`
 - **wordpress** is at port **80**
+
+## Authors
+
+* **tuyenhx** - From [Steenify](https://steenify.com)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
